@@ -1,1 +1,1 @@
-# time_planner
+# Time Planner
